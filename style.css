@@ -1,0 +1,148 @@
+body{
+	background-color:rgb(255, 211, 152);
+}
+
+.header{
+	font-family:'Handlee', cursive;
+	background-color:white;
+	text-align:center;
+	border: 2px black solid;
+	margin: 1% 5% 1% 5%;
+	padding: 3% 2% 3% 2%;
+}
+
+.Personal-Information{
+	font-family:'Handlee', cursive;
+	background-color:white;
+	text-align:center;
+	border: 2px black solid;
+	margin: 1% 5% 1% 5%;
+	padding: 3% 2% 3% 2%;
+}
+
+.About-Me{
+	font-family:'Handlee', cursive;
+	background-color:white;
+	text-align:center;
+	border: 2px black solid;
+	margin: 1% 5% 1% 5%;
+	padding: 3% 2% 3% 2%;
+}
+
+.Hobbies{
+	font-family:'Handlee', cursive;
+	background-color:white;
+	text-align:center;
+	border: 2px black solid;
+	margin: 1% 5% 1% 5%;
+	padding: 3% 2% 3% 2%;
+}
+
+.favourite-movies{
+	font-family:'Handlee', cursive;
+	background-color:white;
+	text-align:center;
+	border: 2px black solid;
+	margin: 1% 5% 1% 5%;
+	padding: 3% 2% 3% 2%;
+}
+
+h1{
+	font-size:20pt;
+	color:#20bcd5;
+	text-align:center;
+	padding:18px 0 18px 0;
+	margin:0 0 10px 0;
+}
+
+h1 span{
+	border:4px dashed #20bcd5;
+	padding:10px;
+}
+
+table{
+	border-spacing: 15px;
+	background-color: :#20bcd5;
+}
+
+table, th, td {
+  border: 2px solid #20bcd5;
+
+}
+
+th, td {
+  padding: 15px;
+}
+
+.contact{
+	font-family:'Handlee', cursive;
+	background-color:white;
+	text-align:center;
+	border: 2px black solid;
+	margin: 1% 5% 1% 5%;
+	padding: 3% 2% 3% 2%;
+}
+
+.submit{
+	
+	background-color:#3fb6b2;
+	padding: 12px 45px;
+	border-radius:5px;
+	color:#ffffff;
+	border:none;
+	outline:none;
+	margin:0;
+	font-weight:bold;
+}
+
+input,textarea{
+	
+	margin-bottom:10px;
+	font-size:11pt;
+	padding:15px 10px 10px;
+	border:1px solid #cecece;
+	background-color:#efefef;
+	color:#787575;
+	border-radius:5px;
+	width:70%;
+	outline:none;
+}
+
+.Quotes{
+	
+	font-family:'Handlee', cursive;
+	background-color:white;
+	text-align:center;
+	border: 2px black solid;
+	margin: 1% 5% 1% 5%;
+	padding: 3% 2% 3% 2%;
+}
+
+.copyright{
+	
+	text-align:right;
+	padding-bottom:10 px;
+	color:grey;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
